@@ -1,0 +1,24 @@
+_repo: Vom-Reisen-und-Reisen-lassen_71434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kästner, Gerhard
+    gutenberg_agent_id: '56230'
+    url: http://www.gutenberg.org/2009/agents/56230
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71434'
+language: de
+pgterms:marc905: 20210102061800kstner
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aHamburg :$bGebrüder Lüdeking, Verlagsbuchhandlung, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vom Reisen und Reisen lassen
+url: http://www.gutenberg.org/ebooks/71434
